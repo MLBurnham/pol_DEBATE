@@ -1,3 +1,7 @@
 **/.DS_Store
 **/.ipynb_checkpoints
+**/ezstance
+**/UKP_sentential_argument_mining
+**/llama_ft
 openAI_key.txt
+llama_key.txt
